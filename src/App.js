@@ -1,7 +1,7 @@
-import Footer from "./components/Footer";
-import Hero from "./components/hero";
-import NavBar from "./components/navbar";
-import RecentPosts from "./components/recentPosts/recentPosts";
+import Footer from "./component/Footer";
+import Hero from "./component/hero";
+import NavBar from "./component/navbar";
+import RecentPosts from "./component/recentPosts/recentPosts";
 const App = () => {
   return (
     <>
